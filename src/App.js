@@ -7,6 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <Tier1 />
+        
         <Tier1 />
       </div>
     )
